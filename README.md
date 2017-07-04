@@ -1,10 +1,10 @@
 Wörterbuch
 ==========
 
-https://de.wikipedia.org/wiki/W%C3%B6rterbuch
+[https://de.wikipedia.org/wiki/Wörterbuch](https://de.wikipedia.org/wiki/W%C3%B6rterbuch)
 
 
-Diese Applikatione implementiert ein wörterbuch in dem oben definierten Sinn
+Diese Applikatione implementiert ein Wörterbuch in dem oben definierten Sinn
 mit dem Ruby Framework Sinatra.
 
 Systemumgebung:
