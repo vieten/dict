@@ -1,0 +1,6 @@
+development:
+  adapter: postgres
+  database: dict
+  username: 'foo'
+  password: 'bla'
+  host: localhost
