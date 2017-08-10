@@ -1,6 +1,6 @@
 development:
-  adapter: postgres
+  adapter: postgresql
   database: dict
-  username: 'foo'
-  password: 'bla'
+  username: 'dict_user'
+  password: 'dict_pw'
   host: localhost
