@@ -1,6 +1,6 @@
 development:
-  adapter: postgres
+  adapter: mysql2
   database: dict
-  username: 'foo'
-  password: 'bla'
+  username: 'root'
+  password: ''
   host: localhost

@@ -18,6 +18,7 @@ GEM
     i18n (0.8.5)
     minitest (5.10.2)
     mustermann (1.0.0)
+    mysql2 (0.4.8)
     pg (0.21.0)
     rack (2.0.3)
     rack-protection (2.0.0)
@@ -56,6 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord
+  mysql2
   pg
   rack
   rack-test
