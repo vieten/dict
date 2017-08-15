@@ -1,3 +1,6 @@
+require 'rubygems'
+require 'bundler/setup'
+
 require 'sinatra'
 require 'sinatra/activerecord'
 require '../dict/config/environments.rb'
